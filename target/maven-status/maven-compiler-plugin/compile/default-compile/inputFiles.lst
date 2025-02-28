@@ -1,0 +1,8 @@
+/workspaces/codespaces-blank/src/main/java/com/validator/service/OrcidValidator.java
+/workspaces/codespaces-blank/src/main/java/com/validator/OrcidValidatorApplication.java
+/workspaces/codespaces-blank/src/main/java/com/validator/OrcidValidatorConfiguration.java
+/workspaces/codespaces-blank/src/main/java/com/validator/model/OrcidValidationResult.java
+/workspaces/codespaces-blank/src/main/java/com/validator/config/AppModule.java
+/workspaces/codespaces-blank/src/main/java/com/validator/config/AppComponent.java
+/workspaces/codespaces-blank/src/main/java/com/validator/resources/OrcidResource.java
+/workspaces/codespaces-blank/src/main/java/com/validator/health/ApplicationHealthCheck.java

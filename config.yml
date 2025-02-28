@@ -1,5 +1,4 @@
 server:
-  applicationContextPath: /api
   applicationConnectors:
     - type: http
       port: 8080
@@ -9,5 +8,3 @@ server:
 
 logging:
   level: INFO
-  loggers:
-    com.validator: DEBUG

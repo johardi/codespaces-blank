@@ -11,8 +11,8 @@
     <properties>
         <dropwizard.version>4.0.4</dropwizard.version>
         <dagger.version>2.48.1</dagger.version>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
     </properties>
 
     <dependencies>
@@ -71,6 +71,14 @@
                         </goals>
                     </execution>
                 </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <mainClass>com.validator.OrcidValidatorApplication</mainClass>
+                </configuration>
             </plugin>
         </plugins>
     </build>

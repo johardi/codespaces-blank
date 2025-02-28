@@ -1,0 +1,15 @@
+com/validator/resources/OrcidResource.class
+com/validator/config/DaggerAppComponent$AppComponentImpl.class
+com/validator/OrcidValidatorApplication.class
+com/validator/OrcidValidatorConfiguration.class
+com/validator/service/OrcidValidator_Factory$InstanceHolder.class
+com/validator/service/OrcidValidator_Factory.class
+com/validator/health/ApplicationHealthCheck.class
+com/validator/resources/OrcidResource_Factory.class
+com/validator/config/AppModule.class
+com/validator/service/OrcidValidator.class
+com/validator/model/OrcidValidationResult.class
+com/validator/config/DaggerAppComponent$Builder.class
+com/validator/config/AppComponent.class
+com/validator/config/AppModule_ProvideOrcidValidatorFactory.class
+com/validator/config/DaggerAppComponent.class
